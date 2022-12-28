@@ -1,1 +1,1 @@
-# csharp-labs
+# dotnet-labs
